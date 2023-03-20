@@ -11,5 +11,5 @@
 # log
 `git log` permet d'afficher et de filtrer l'ensemble des commits d'un projet (En spécifiant la commande on peut obtenir des résultats plus précis).
 
-exemple : git log --author="Théo" -p exemple.php cela va chercher toutes les logs faite par le user Théo dans le fichier exemple.php
+exemple : `git log --author="Théo" -p exemple.php` cela va chercher toutes les logs faite par le user Théo dans le fichier exemple.php
 # commit
