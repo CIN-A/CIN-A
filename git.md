@@ -4,6 +4,9 @@ En résumé, le statut dans Github est une fonctionnalité utile pour suivre l'�
 # clone
 `git clone` permet de récupérer un dépôt Git distant et de l'avoir localement. Par exemple, `git clone git@github.com:CIN-A/CIN-A.git` va chercher le dépôt https://github.com/CIN-A/CIN-A et crée un dossier `CIN-A` avec son contenu.
 # push
+Le "Push" sert a envoyer ce qu'on a rajouter ou modifier sur GitHub apres avoir commit.
+Ce qui vas apliquer les modification de la personne qui a "Push".
+Les autre personne qui veux recuperer les modification doivent "Pull".
 # pull/fetch
 ![](https://campusmaps.umn.edu/sites/campusmaps.umn.edu/files/styles/circle_pic/public/2019-09/SpongeBob-square.png?itok=cbHih9qs)
 
