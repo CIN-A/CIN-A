@@ -1,1 +1,11 @@
-test
+# status
+# clone
+# push
+# pull/fetch
+# merge
+# rebase
+# reset
+# branch
+# checkout
+# log
+# commit
