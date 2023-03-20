@@ -8,6 +8,10 @@ En résumé, le statut dans Github est une fonctionnalité utile pour suivre l'�
 # merge
 # rebase
 # reset
+`Git reset` est utilisé pour mettre à jour la branche actuelle.
+Il peut également être utile de restaurer l’index, en intersection avec git restore.
+Pour réinitialiser l’index et le répertoire de travail à l’état du dernier commit, la commande git reset est utilisée :
+`git reset --hard HEAD`
 # branch
 Une branche permet de travailler sur une fonctionnalité sans risquer de corrompre les fonctionnalités fonctionnelles.
 git branch                        -> Donne la liste des branches du répo
