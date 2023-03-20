@@ -9,6 +9,9 @@ En résumé, le statut dans Github est une fonctionnalité utile pour suivre l'�
 # rebase
 # reset
 # branch
+Une branche permet de travailler sur une fonctionnalité sans risquer de corrompre les fonctionnalités fonctionnelles.
+git branch                        -> Donne la liste des branches du répo
+git branch Nouvelle branch        -> Crée une branch avec le nom "Nouvelle branch"
 # checkout
 # log
 # commit
