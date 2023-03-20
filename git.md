@@ -10,5 +10,14 @@ En résumé, le statut dans Github est une fonctionnalité utile pour suivre l'�
 # reset
 # branch
 # checkout
+sert à changer de branche 
+git checkout ＜nom de la branche＞
+
+l'argument -b permet de crée la branche et de automatiquement switch dessu en se basant sur la branche ou on se situe au moment de la commande
+git checkout -b ＜nouvelle-branche＞
+
+on peut préciser sur quelle branche on se base
+git checkout -b ＜nouvelle-branche＞ ＜branche-existante＞
+
 # log
 # commit
