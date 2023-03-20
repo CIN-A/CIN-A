@@ -48,3 +48,5 @@ git checkout -b ＜nouvelle-branche＞ ＜branche-existante＞
 
 exemple : `git log --author="Théo" -p exemple.php` cela va chercher toutes les logs faite par le user Théo dans le fichier exemple.php
 # commit
+Les commits peuvent être considérés comme des instantanés ou des étapes importantes dans la chronologie d'un projet Git. Ils sont créés grâce à la commande "git commit" pour capturer l'état d'un projet à un point dans le temps.
+Par exemple, "git commit -m "first commit" (-m signifie le message du commit)
