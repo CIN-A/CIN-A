@@ -25,6 +25,7 @@ En résumé, le statut dans Github est une fonctionnalité utile pour suivre l'�
 En résumé, la commande "fetch" permet de récupérer les modifications du dépôt distant pour les examiner avant de les fusionner, tandis que la commande "pull" permet de récupérer et de fusionner automatiquement les modifications avec votre code existant
 # merge
 # rebase
+`git rebase` est le processus de déplacement ou de combinaison d'une série de commits vers un nouveau commit de base.
 # reset
 # branch
 Une branche permet de travailler sur une fonctionnalité sans risquer de corrompre les fonctionnalités fonctionnelles.
