@@ -4,6 +4,8 @@
 # push
 # pull/fetch
 # merge
+`git merge` permet à une branche de fusionner avec la branche principal 
+site avec des info: https://git-scm.com/docs/git-merge
 # rebase
 # reset
 # branch
