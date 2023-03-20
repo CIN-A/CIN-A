@@ -12,3 +12,5 @@ En résumé, le statut dans Github est une fonctionnalité utile pour suivre l'�
 # checkout
 # log
 # commit
+Les commits peuvent être considérés comme des instantanés ou des étapes importantes dans la chronologie d'un projet Git. Ils sont créés grâce à la commande "git commit" pour capturer l'état d'un projet à un point dans le temps.
+Par exemple, "git commit -m "first commit" (-m signifie le message du commit)
