@@ -5,6 +5,7 @@
 # pull/fetch
 # merge
 # rebase
+`git rebase` est le processus de déplacement ou de combinaison d'une série de commits vers un nouveau commit de base.
 # reset
 # branch
 # checkout
